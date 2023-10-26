@@ -19,9 +19,8 @@ export default{
 <template>
   <AppHeader/>
   <HomePage/>
-  <AppContact/>
   <AppProject/>
-
+  <AppContact/>
   
 </template>
 

@@ -26,10 +26,13 @@ export default {
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                <a class="nav-link" href="#home">Home</a>
+                <a class="nav-link" href="#">Home</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="#contact">Contatti</a>
+                    <a class="nav-link" href="#contact">Contatti</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#project">Progetti</a>
                 </li>
             </ul>
             </div>
@@ -38,6 +41,6 @@ export default {
         
 </template>
 
-<style lang="">
+<style lang="scss">
     
 </style>
