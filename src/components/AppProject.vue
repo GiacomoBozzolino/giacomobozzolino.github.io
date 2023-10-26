@@ -15,7 +15,7 @@ export default {
             <div class="row">
                 <div class="col-12 ">
                     <div class="text-center " >
-                        <h2 class="section">My Project</h2>
+                        <h2 class="section">My Projects</h2>
                         <div>
                             Qui puoi vedere alcuni dei miei progetti!
                         </div>

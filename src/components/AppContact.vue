@@ -12,7 +12,7 @@ export default {
                 <div class=col-12>
                     <div  class="m-2 p-2 " >
                     <h2 class="section ">
-                       My Contact
+                       My Contacts
                     </h2>
                     </div>
                 </div>
