@@ -13,6 +13,27 @@ body{
 
 .section{
     text-transform: uppercase;
-    font-size: 100px;
+    font-size: 60px;
     text-shadow: 6px 0px 1px #4c4c4c;
 }
+
+
+@media only screen and (min-width: 600px){
+    .section{
+        font-size:100px;
+    }
+    h1{
+        font-size: 7rem;
+    }
+
+}
+
+
+
+
+
+
+// a{
+//     text-decoration: none;
+//     color: white;
+// }

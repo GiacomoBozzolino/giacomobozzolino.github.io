@@ -15,9 +15,11 @@ export default {
                 <div class="col-12 col-md-6">
                     
                     <p class="py-5">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi venenatis, felis nec auctor cursus, mauris enim sollicitudin orci, ac lacinia lacus eros id elit. Maecenas mattis metus nec diam imperdiet elementum. Donec aliquet metus at mattis sagittis. Maecenas ac dignissim elit, eu efficitur diam. Vivamus interdum tortor eu semper venenatis. Integer ultrices hendrerit ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam imperdiet augue ac justo efficitur, at gravida orci sagittis. Aenean non orci neque. Nullam odio orci, imperdiet sit amet quam nec, efficitur vestibulum orci. Donec vulputate lacinia efficitur. Vestibulum cursus nisl sit amet tellus laoreet, eget imperdiet justo condimentum. Vivamus vel dui suscipit, euismod enim quis, porttitor massa. Fusce fermentum elit a eros faucibus, vel pulvinar urna ultricies. <br>
+                        Ciao, sono Giacomo Bozzolino, nato a Genova nel 1989. La mia avventura nel mondo dello sviluppo web è iniziata come una scoperta recente, ma è diventata una passione travolgente che ha cambiato la mia vita. Questa passione ha alimentato la mia sete di conoscenza, spingendomi sempre più a immergermi in questo affascinante universo, fino a prendere la decisione di intraprendere il percorso presso Boolean per diventare un full stack web developer. <br>
 
-                        Proin sapien arcu, porta vitae sagittis a, commodo vel purus. Suspendisse semper accumsan risus, sit amet semper risus viverra id. Proin id magna tellus. Nulla pellentesque finibus urna in dignissim. Etiam non justo blandit, bibendum diam at, molestie tellus. Nulla eu fringilla felis. Fusce ultricies massa ut ultrices tempor. Etiam sed tortor eget eros ornare faucibus sed vel augue. Quisque imperdiet laoreet leo, sit amet sollicitudin tortor tincidunt quis. Praesent a imperdiet risus. 
+                        Sono guidato da una profonda passione per l'apprendimento costante, sempre alla ricerca di nuove sfide e opportunità di crescita professionale. Sono determinato a mettere in pratica le mie esperienze e competenze per contribuire a progetti innovativi, portando creatività e dedizione in ogni sfida che affronto. <br>
+
+                        Al di fuori del mondo del web development, mi piace dedicare il mio tempo libero alla fotografia naturalistica, che unisce la mia creatività al mio amore per la natura, e alla modellazione 3D tramite il software Blender.
                     </p>
                 </div>
                 <div class="col-12 col-md-6">
