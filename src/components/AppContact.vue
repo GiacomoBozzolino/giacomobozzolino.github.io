@@ -21,24 +21,40 @@ export default {
                         <li>
                             <div> 
                                 
-                                    <i class="fa-solid fa-envelope"></i>
-                                
-                                mail
+                                <i class="fa-solid fa-envelope"></i>
+                               Email
                             </div>
-                            <div>g.bozzolino@gmail.com</div>
+                            <div>
+                                g.bozzolino@gmail.com
+                            </div>
                         </li>
-                        <li>
-                            telefono
+                        <li> 
+                            <div>
+                               <i class="fa-solid fa-phone"></i>
+                            telefono 
+                            </div>
+                            
+                            <div>
+                                +39 3388216835
+                            </div>
                         </li>
+
                     </ul>
                 </div>
                 <div class="col-12 col-lg-6">
                     <ul class="list-unstyled">
                         <li>
-                           Linkedin
+                            <div>
+                               <i class="fa-brands fa-linkedin"></i>
+                                Linkedin 
+                            </div>
                         </li>
                         <li>
-                            Github
+                            <div>
+                               <i class="fa-brands fa-github"></i>
+                                Github
+                            </div>
+                            
                         </li>
                     </ul>
                 </div>

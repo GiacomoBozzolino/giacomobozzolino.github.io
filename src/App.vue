@@ -17,13 +17,22 @@ export default{
 </script>
 
 <template>
-  <AppHeader/>
-  <HomePage/>
-  <AppProject/>
-  <AppContact/>
+  <header class="sticky-top">
+    <AppHeader/>
+  </header>
+  
+  <main>
+    <HomePage/>
+    <AppProject/>
+    <AppContact/>
+  </main>
+    
+  
+  
   
 </template>
 
-<style scoped>
+<style lang="scss" >
+
 
 </style>
