@@ -10,12 +10,12 @@ export default {
 </script>
 
 <template lang="">
-   <div id="project" class="project ">
+   <div id="project" class="d-flex justify-content-center align-items-center">
         <div class="container">
             <div class="row">
                 <div class="col-12 ">
-                    <div class="text-center pt-5" >
-                        <h2>My Project</h2>
+                    <div class="text-center " >
+                        <h2 class="section">My Project</h2>
                         <div>
                             Qui puoi vedere alcuni dei miei progetti!
                         </div>
@@ -52,11 +52,16 @@ export default {
 
 <style lang="scss" scoped>
 
-.project{
+#project{
     background-color: rgb(20, 20, 20);
     color: white;
     padding-top: 50px;
     min-height: 100vh;
+    // h2{
+    //     text-transform: uppercase;
+    //     font-size: 150px;
+    //     text-shadow: 6px 0px 1px #4c4c4c;
+    // }
 }
     
 </style>

@@ -29,14 +29,14 @@ export default {
                 <a class="nav-link" href="#">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#contact">Contatti</a>
+                    <a class="nav-link" href="#about">About</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#project">Progetti</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#about">About</a>
-                </li>
+                    <a class="nav-link" href="#contact">Contatti</a>
+                </li>  
             </ul>
             </div>
         </div>

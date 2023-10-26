@@ -6,13 +6,13 @@ export default {
 </script>
 
 <template lang="">
-    <div id="contact">
+    <div id="contact" class="d-flex justify-content-center align-items-center">
         <div class="container text-center">
             <div class="row">
                 <div class=col-12>
                     <div  class="m-2 p-2 " >
-                    <h2>
-                        ciao, questi sono i miei contatti
+                    <h2 class="section ">
+                       My Contact
                     </h2>
                     </div>
                 </div>
@@ -72,5 +72,11 @@ export default {
     color: white;
     min-height: 100vh;
     padding-top: 50px;
+    ul{
+        font-size: 2rem;
+    }
+    h2{
+        padding-bottom: 100px;
+    }
 } 
 </style>

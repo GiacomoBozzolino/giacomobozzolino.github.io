@@ -9,7 +9,11 @@ export default {
     <div id="about" class="d-flex justify-content-center align-items-center">
         <div class="container py-5 ">
             <div class="row">
+                <div class="col-12 text-center">
+                    <h2 class="section">About Me</h2>
+                </div>
                 <div class="col-12 col-md-6">
+                    
                     <p class="py-5">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi venenatis, felis nec auctor cursus, mauris enim sollicitudin orci, ac lacinia lacus eros id elit. Maecenas mattis metus nec diam imperdiet elementum. Donec aliquet metus at mattis sagittis. Maecenas ac dignissim elit, eu efficitur diam. Vivamus interdum tortor eu semper venenatis. Integer ultrices hendrerit ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam imperdiet augue ac justo efficitur, at gravida orci sagittis. Aenean non orci neque. Nullam odio orci, imperdiet sit amet quam nec, efficitur vestibulum orci. Donec vulputate lacinia efficitur. Vestibulum cursus nisl sit amet tellus laoreet, eget imperdiet justo condimentum. Vivamus vel dui suscipit, euismod enim quis, porttitor massa. Fusce fermentum elit a eros faucibus, vel pulvinar urna ultricies. <br>
 

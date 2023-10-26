@@ -37,7 +37,7 @@ export default {
         background-color: #fff8e9;
         h1{
             font-weight: 700;
-            font-size: 5rem ;
+            font-size: 6rem ;
         }
         h3{
             font-weight: 700;
