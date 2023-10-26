@@ -66,8 +66,8 @@ export default {
 
 <style lang="scss" scoped>
    #contact{
-    background-color: rgba(22, 109, 8, 0.469);
+    background-color: rgb(20, 20, 20);
     color: white;
-    min-height: 70vh;
+    min-height: 40vh;
 } 
 </style>

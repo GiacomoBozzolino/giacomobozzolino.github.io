@@ -3,6 +3,7 @@ import HomePage from './pages/HomePage.vue';
 import AppHeader from './components/AppHeader.vue';
 import AppContact from './components/AppContact.vue';
 import AppProject from './components/AppProject.vue';
+import AppAbout from './components/AppAbout.vue';
 
 export default{
   components:{
@@ -10,6 +11,7 @@ export default{
     AppHeader,
     AppContact,
     AppProject,
+    AppAbout,
   }
 
 }
@@ -23,9 +25,14 @@ export default{
   
   <main>
     <HomePage/>
+    <AppAbout/>
     <AppProject/>
-    <AppContact/>
+    
   </main>
+
+  <footer>
+    <AppContact/>
+  </footer>
     
   
   

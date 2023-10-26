@@ -11,9 +11,17 @@ export default {
 
 <template lang="">
    <div id="project" class="project">
-    ciao, questi sono i miei progetti
+   
         <div class="container">
             <div class="row">
+                <div class="col-12 ">
+                    <div class="text-center" >
+                        <h2>My Project</h2>
+                        <div>
+                            Qui puoi vedere alcuni dei miei progetti!
+                        </div>
+                    </div>    
+                </div>
                 <div class="col-12">
                     <div id="carouselExampleAutoplaying" class="carousel slide pointer-event" data-bs-ride="carousel">
                         <div class="carousel-inner">
@@ -46,7 +54,7 @@ export default {
 <style lang="scss" scoped>
 
 .project{
-    background-color: rgba(4, 24, 239, 0.965);
+    background-color: rgb(20, 20, 20);
     color: white;
     min-height: 100vh;
 }
