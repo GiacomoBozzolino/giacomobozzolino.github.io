@@ -25,7 +25,8 @@ export default {
                                Email
                             </div>
                             <div>
-                                g.bozzolino@gmail.com
+                                <a href="mailto: g.bozzolino@gmail.com" target="_blank" rel="noopener noreferrer">Email Us</a>
+                               
                             </div>
                         </li>
                         <li> 
@@ -46,13 +47,14 @@ export default {
                         <li>
                             <div>
                                <i class="fa-brands fa-linkedin"></i>
-                                Linkedin 
+                               <a href="">Linkedin</a>
+                                 
                             </div>
                         </li>
                         <li>
                             <div>
                                <i class="fa-brands fa-github"></i>
-                                Github
+                                <a href="http://">Github</a>
                             </div>
                             
                         </li>

@@ -34,6 +34,9 @@ export default {
                 <li class="nav-item">
                     <a class="nav-link" href="#project">Progetti</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#about">About</a>
+                </li>
             </ul>
             </div>
         </div>
