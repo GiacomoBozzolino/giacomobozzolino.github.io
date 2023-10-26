@@ -10,12 +10,11 @@ export default {
 </script>
 
 <template lang="">
-   <div id="project" class="project">
-   
+   <div id="project" class="project ">
         <div class="container">
             <div class="row">
                 <div class="col-12 ">
-                    <div class="text-center" >
+                    <div class="text-center pt-5" >
                         <h2>My Project</h2>
                         <div>
                             Qui puoi vedere alcuni dei miei progetti!
@@ -56,6 +55,7 @@ export default {
 .project{
     background-color: rgb(20, 20, 20);
     color: white;
+    padding-top: 50px;
     min-height: 100vh;
 }
     

@@ -70,6 +70,7 @@ export default {
    #contact{
     background-color: rgb(20, 20, 20);
     color: white;
-    min-height: 40vh;
+    min-height: 100vh;
+    padding-top: 50px;
 } 
 </style>

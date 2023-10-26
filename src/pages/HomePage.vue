@@ -12,13 +12,14 @@ export default {
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="m-5">
-                        <h1 class="fs-1">HI I'm Giacomo Bozzolino</h1>
+                    <div class="m-5 py-5 ">
+                        <h1 >HI I'm Giacomo Bozzolino</h1>
                         <h3>Full Stack Web Developer</h3>
+                        <div class="py-5">
+                        <a href="#about" class="btn btn-secondary btn-lg">About me</a>
+                        </div>
                     </div>
-                    <div>
-                        <a href="#about" class="btn">About me</a>
-                    </div>
+                    
                     
                 </div>
 
@@ -34,5 +35,13 @@ export default {
     #home{
         min-height: 100vh;
         background-color: #fff8e9;
+        h1{
+            font-weight: 700;
+            font-size: 5rem ;
+        }
+        h3{
+            font-weight: 700;
+            font-size: 2.5rem;
+        }
     }
 </style>

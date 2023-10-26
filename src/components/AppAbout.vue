@@ -6,8 +6,8 @@ export default {
 </script>
 
 <template lang="">
-    <div id="about">
-        <div class="container py-3">
+    <div id="about" class="d-flex justify-content-center align-items-center">
+        <div class="container py-5 ">
             <div class="row">
                 <div class="col-12 col-md-6">
                     <p class="py-5">
@@ -33,7 +33,8 @@ export default {
    #about{
     background-color: rgb(20, 20, 20);
     color: white;
-    // min-height: 100vh;
+    padding-top: 50px;
+    min-height: 100vh;
         img{
           height: 70%; 
           width: 70%; 
