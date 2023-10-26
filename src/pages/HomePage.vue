@@ -13,7 +13,7 @@ export default {
             <div class="row">
                 <div class="col-12">
                     <div class="m-5">
-                        <h1 class="fs-1">Giacomo Bozzolino</h1>
+                        <h1 class="fs-1">HI I'm Giacomo Bozzolino</h1>
                         <h3>Full Stack Web Developer</h3>
                     </div>
                     <div>
