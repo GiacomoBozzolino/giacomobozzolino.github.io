@@ -45,5 +45,12 @@ export default {
 </template>
 
 <style lang="scss">
+@media only screen and (min-width: 992px){
+  .navbar{
+    height: 70px;
+}
+
+}
+
     
 </style>

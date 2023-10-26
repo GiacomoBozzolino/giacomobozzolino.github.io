@@ -24,7 +24,7 @@ export default {
                                     <i class="fa-solid fa-envelope fa-xl"></i>
                                 </div>
                                 <div>
-                                     <a href="mailto: g.bozzolino@gmail.com" target="_blank" rel="noopener noreferrer" class="link-light link-opacity-25-hover link-underline-opacity-0">g.bozzolino@gmail.com</a>
+                                     <a href="mailto: g.bozzolino@gmail.com" target="_blank" rel="noopener noreferrer">g.bozzolino@gmail.com</a>
                                 </div>
                             </div>
                         </li>
@@ -48,7 +48,7 @@ export default {
                                     <i class="fa-brands fa-linkedin fa-xl"></i>
                                </div>
                                <div>
-                                    <a href="https://www.linkedin.com/in/giacomo-bozzolino/" class="link-light link-opacity-25-hover link-underline-opacity-0">Linkedin</a>
+                                    <a href="https://www.linkedin.com/in/giacomo-bozzolino/" >Linkedin</a>
                                </div>
                             </div>  
                         </li>
@@ -58,7 +58,7 @@ export default {
                                     <i class="fa-brands fa-github fa-xl"></i>
                                </div>
                                <div>
-                                    <a href="https://github.com/GiacomoBozzolino" class="link-light link-opacity-25-hover link-underline-opacity-0">Github</a>
+                                    <a href="https://github.com/GiacomoBozzolino" >Github</a>
                                </div>
                             </div>   
                         </li>
@@ -82,6 +82,16 @@ export default {
     h2{
         padding-bottom: 50px;
     }
+
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    
+        a:hover{
+            color:#831010;
+        }
+    
 } 
 
 
