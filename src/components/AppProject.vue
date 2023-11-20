@@ -61,30 +61,22 @@ export default {
                         </div>
                     </div>    
                 </div>
-                <div class="col-12">
-                    <div id="carouselExampleAutoplaying" class="carousel slide pointer-event" data-bs-ride="carousel">
-                        <div class="carousel-inner">
-                            <div class="carousel-item active">
-                                <img src="../assets/ricerca_avanzata.png" class="d-block w-100" alt="ricerca avanzata boolbnb">
-                            </div>
-                            <div class="carousel-item">
-                                <img src="../assets/spotify.png" class="d-block w-100" alt="spotify">
-                            </div>
-                            <div class="carousel-item">
-                                <img src="../assets/Boolflix.png" class="d-block w-100" alt="Boolflix">
-                            </div>
-                            <div class="carousel-item">
-                                <img src="../assets/campominato.png" class="d-block w-100" alt="campominato">
-                            </div>
+
+                <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="../assets/ricerca_avanzata.png" class="d-block w-100" alt="...">
                         </div>
-                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Previous</span>
-                        </button>
-                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Next</span>
-                        </button>
+                        <div class="carousel-item">
+                            <img src="../assets/spotify.png" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="../assets/Boolflix.png" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="../assets/campominato.png" class="d-block w-100" alt="...">
+                        </div>
+                        
                     </div>
                 </div>
             </div>

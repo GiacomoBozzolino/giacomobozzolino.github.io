@@ -25,9 +25,8 @@ export default{
   
   <main>
     <HomePage/>
+    <AppProject/>  
     <AppAbout/>
-    <AppProject/>
-    
   </main>
 
   <footer>
